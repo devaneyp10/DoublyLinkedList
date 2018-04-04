@@ -1,2 +1,2 @@
 # DoublyLinkedList
-Algorithms and Data Structures Assignment 
+Java implementation of a Doubly Linked List with JUnit tests.
